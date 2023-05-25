@@ -28,7 +28,9 @@ a:hover {
 
 .contact-info a:hover {
     color: crimson;
-    text-decoration: none;
+    text-decoration: line-through;
+    font-size: 1.4rem;
+    font-weight: 500;
 }
 
 
