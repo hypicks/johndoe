@@ -22,6 +22,15 @@ a:hover {
     color: crimson;
 }
 
+.contact-info a {
+    color: black;
+}
+
+.contact-info a:hover {
+    color: crimson;
+    text-decoration: none;
+}
+
 
 img {
     height: 100%;
