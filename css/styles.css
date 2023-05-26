@@ -760,7 +760,7 @@ p {
     /* End of Hero */
 
     /* Services Section */
-    #services .service-bottom .service-item {
+    #services .service-bottom .service-item .service-top {
         flex-basis: 45%;
         margin: 2.5%;
     }
